@@ -88,6 +88,8 @@
                     <img src="images/cat.jpg" alt="cat.">
                 </div>
 
+                Floops feature
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
